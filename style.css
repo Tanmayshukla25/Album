@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.head
+{
+   text-align: center;
+   padding: 3.5rem
+}
+.name{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
+.test a{
+   text-decoration: none;
+}
+.test span{
+   font-size: 21px;
+   margin: 0px;
+}
+
+.name a{
+   margin-right: 30px;
+   font-size: 22px;
+    
+}
